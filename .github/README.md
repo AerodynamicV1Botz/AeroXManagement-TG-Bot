@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/python-3.10.1-green?style=for-the-badge&logo=appveyor" alt="Python Version">
 <img src="https://img.shields.io/badge/Telethon-1.24.0-yellow?style=for-the-badge&logo=appveyor" alt="Telethon Version">
 <img src="https://img.shields.io/badge/Pyrogram-1.4.1-red?style=for-the-badge&logo=appveyor" alt="Pyrogram Version">
-<a href="https://github.com/AerodynamicV1Botz/AeroXManagement-Bot"> <img src="https://img.shields.io/github/repo-size/AerodynamicV1Botz/AeroXRobot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/AerodynamicV1Botz/AeroXManagement-TG-Bot"> <img src="https://img.shields.io/github/repo-size/AerodynamicV1Botz/AeroXRobot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>
 <div>
 
 ###  ╒═══「 Status 」
@@ -67,7 +67,7 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 	
   <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/AerodynamicV1Botz/AeroXManagement-Bot">
+        <a href="https://heroku.com/deploy?template=https://github.com/AerodynamicV1Botz/AeroXManagement-TG-Bot">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
